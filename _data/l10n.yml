@@ -205,7 +205,7 @@ it:
 
         * **Longevity**: l'età del progetto. 
 
-        I range di ogni misura possono essere trovati nel file *[vitality-ranges.yml]*(https://github.com/italia/developers-italia-backend/blob/master/crawler/vitality-ranges.yml)."
+        I range di ogni misura possono essere trovati nel file [vitality-ranges.yml](https://github.com/italia/developers-italia-backend/blob/master/crawler/vitality-ranges.yml)."
 
     pa:
       top_right_text: Questa pagina elenca il software di cui l'ente è titolare e che è stato pubblicato con licenza aperta ai sensi dell'art. 69 del Codice dell'Amministrazione Digitale.
@@ -416,7 +416,7 @@ en:
 
         * **Longevity**: the age of the project. 
 
-        The ranges of every measure can be found in the [vitality-ranges.yml file](https://github.com/italia/developers-italia-backend/blob/master/crawler/vitality-ranges.yml)."
+        The ranges of every measure can be found in the [vitality-ranges.yml](https://github.com/italia/developers-italia-backend/blob/master/crawler/vitality-ranges.yml) file."
     pa:
       top_right_text: This page lists the software solutions owned by this public entity and released under an open license according to art. 69 of the Italian Digital Administration Code.
       more_details: Read more
